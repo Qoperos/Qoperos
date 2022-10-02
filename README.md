@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*goaFvkjpQM-0p0h6.)](https://github.com/Qoperos/)
+[![MasterHead](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)](https://github.com/Qoperos/)
 <h1 align="right">Hi 👋, I'm Kaleab Mesfin</h1>
 <h2 align="left">A passionate frontend developer from Ethiopia.</h2>
 
