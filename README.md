@@ -28,10 +28,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qoperos&show_icons=true&locale=en&layout=compact" alt="qoperos" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=qoperos&show_icons=true&locale=en" alt="qoperos" /></p>
-<br/>
-<br/>
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qoperos" alt="qoperos" /></a> </p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=qoperos&show_icons=true&locale=en" alt="qoperos" /></p>
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qoperos" alt="qoperos" /></a> </p>
 
 <!---
 Qoperos/Qoperos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
