@@ -1,6 +1,6 @@
 [![MasterHead](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)](https://github.com/Qoperos/)
-<h1 align="right">Hi 👋, I'm Kaleab Mesfin</h1>
-<h2 align="left">A passionate frontend developer from Ethiopia.</h2>
+<h1 align="left">Hi 👋, I'm Kaleab Mesfin</h1>
+<h2 align="left">A self-taught ardent developer from Ethiopia.</h2>
 
 <img align="right" alt="coding" width="400" height="300" style="margin-top: 10px" src="https://cdn.dribbble.com/users/1141571/screenshots/3978202/dribbble_4.gif">
 
