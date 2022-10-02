@@ -1,14 +1,16 @@
-[![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Kaleab Mesfin</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia.</h3>
+[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://github.com/Qoperos/)
+<h1 align="right">Hi 👋, I'm Kaleab Mesfin</h1>
+<h2 align="left">A passionate frontend developer from Ethiopia.</h2>
 
-<img align="right" alt="coding" width="400" height="300" style="margin-top: 10px" src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
+<img align="right" alt="coding" width="400" height="300" style="margin-top: 10px" src="https://cdn.dribbble.com/users/1141571/screenshots/3978202/dribbble_4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qoperos&label=Profile%20views&color=0e75b6&style=flat" alt="qoperos" /> </p>
 
 - 🌱 I’m currently learning **Software Engineering at ALX**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Qoperos?tab=repositories](https://github.com/Qoperos?tab=repositories)
+- 👀 I’m interested in Technology and it's advantage that brings new things to the table!
+
+- 💞️ I’m looking to collaborate with Software Engineers and Full Stack Developers
 
 - 💬 Ask me about **JavaScript**
 
@@ -26,19 +28,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qoperos&show_icons=true&locale=en&layout=compact" alt="qoperos" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qoperos&show_icons=true&locale=en" alt="qoperos" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qoperos" alt="qoperos" /></a> </p>
-
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=qoperos&show_icons=true&locale=en" alt="qoperos" /></p>
+<br/>
+<br/>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qoperos" alt="qoperos" /></a> </p>
 
 <!---
-- 👋 Hi, I’m Kaleab with user name @Qoperos on github
-- 👀 I’m interested in Technology and it's advantage that brings new things to the table!
-- 🌱 I’m currently learning Front-end Developement
-- 💞️ I’m looking to collaborate with Software Engineers and Full Stack Developers
-- 📫 How to reach me ... via linkedin :- https://www.linkedin.com/in/kaleab-mesfin-wondemeneh/
-
-
 Qoperos/Qoperos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
